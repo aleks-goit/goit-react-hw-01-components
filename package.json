@@ -12,7 +12,7 @@
     "react-scripts": "3.4.1",
     "styled-components": "^5.1.1"
   },
-  "homepage": "https://aleks-goit.github.io/goit-react-hw-01-components",
+  "homepage": "https://aleks-goit.github.io/goit-react-hw-01-components/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
